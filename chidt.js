@@ -1,0 +1,1 @@
+alert(' xin chao do thien chi');
